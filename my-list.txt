@@ -1,0 +1,16 @@
+! 2021-04-17 http://strims.world
+||chatango.com*
+||allegianceenableselfish.com*
+||odiscussing.fun*
+||www.tuknelym.com*
+||tuknelym.com*
+||xqgzvsjmnmgv.com*
+||strims.world^$popup
+strims.world##iframe[data-glx="yeap"][scrolling="no"]
+strims.world##iframe[id^="twitter-widget"]
+strims.world##div[class="kanalyInt"]
+strims.world##div[class="videoINT"]
+strims.world##[href="/porn"]
+||strims.world/layout/chat*$subdocument
+! ------
+
